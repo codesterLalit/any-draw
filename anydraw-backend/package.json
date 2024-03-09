@@ -1,0 +1,21 @@
+{
+  "name": "anydraw-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "i": "^0.3.7",
+    "kafkajs": "^2.2.4",
+    "npm": "^10.5.0",
+    "redis": "^4.6.13",
+    "socket.io": "^4.7.4"
+  }
+}
