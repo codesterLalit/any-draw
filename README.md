@@ -9,17 +9,17 @@
 1. First clone:   
 ```bash
 git clone https://github.com/codesterLalit/any-draw.git
-``
+```
 2. First go to "any-draw". Which contains frontend code.  
 ```bash
 cd any-draw
 npm install
 npm start
 ```
-3. Then navigate to root folder.
-``bash
+3. Then navigate to root folder.  
+```bash
 cd ..
-``
+```
 4. Then first start docker for kafka.
 ```bash
 cd anydraw-backend
